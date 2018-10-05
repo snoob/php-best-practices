@@ -21,3 +21,5 @@ src/
 Sources :
 - https://speakerdeck.com/super_marek/applying-domain-driven-design-with-symfony
 - https://blog.elao.com/fr/dev/architecture-hexagonale-symfony/
+- https://devblog.lexik.fr/symfony/domain-driven-design-partie-1-3112
+- https://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/
