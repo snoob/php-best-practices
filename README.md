@@ -4,6 +4,7 @@
  * Use named constructor even if you have only one http://verraes.net/2014/06/named-constructors-in-php/
  * Finals classes by default https://matthiasnoback.nl/2018/09/final-classes-by-default-why/
  * Classify yours exceptions http://37steps.com/2700/exception-classification/. For example, throw \RuntimeException (or parent class) for failures caused by external, unpredictable things and throw \LogicException (or parent class) for programming mistakes.
+ * Avoid setter injection and validate property on initialization to ensure object consistency https://www.brandonsavage.net/avoiding-setter-injection/
  
  ## Symfony
  * Use autowiring for your services
