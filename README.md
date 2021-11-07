@@ -34,6 +34,7 @@ WIP
    * http://talks.nekland.fr/Doctrine/#/ (French slides)
    * https://ocramius.github.io/doctrine-best-practices/#/
    * https://ocramius.github.io/blog/doctrine-orm-optimization-hydration/
+   * https://github.com/jupeter/clean-code-php
  
  ## PHPUnit
   * Use PHPUnit Mocks instead of Prophecy https://medium.com/@IvanChepurnyi/native-mocking-and-stubbing-in-php-ad11a32596e4
